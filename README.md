@@ -35,7 +35,7 @@ End-to-end **Medallion architecture pipeline** (Bronze → Silver → Gold) proc
 > 💡 **Key insight:** Electricity tariff rate - not solar irradiance - is the dominant ROI driver.
 > Mumbai Premium delivers **735% ROI** vs Bengaluru's **267%** despite lower sunlight.
 
-🔗 [View Repository](#) ← replace with actual link
+
 
 ---
 
@@ -45,7 +45,7 @@ End-to-end **Medallion architecture pipeline** (Bronze → Silver → Gold) proc
 - Analysed **300,000+ loan applications** to identify default patterns and build risk profiles supporting lending decisions
 - Identified **3 distinct high-risk customer profiles** with actionable recommendations for loan approval criteria
 
-🔗 [View Repository](https://github.com/Ragadeepsai/Credit-Risk-Analysis-With-EDA)
+
 
 ---
 
@@ -55,7 +55,7 @@ End-to-end **Medallion architecture pipeline** (Bronze → Silver → Gold) proc
 - Cleaned and analysed **100,000+ traffic collision records** to surface accident patterns across time, location, and severity
 - Generated insights on high-risk periods and geographic hotspots to support public safety planning
 
-🔗 [View Repository](#) ← replace with actual link
+
 
 ---
 
@@ -64,7 +64,7 @@ End-to-end **Medallion architecture pipeline** (Bronze → Silver → Gold) proc
 
 - Developed a content-based recommendation engine querying **8,000+ movies** across **6 relational tables** using advanced SQL techniques including joins, subqueries, and window functions
 
-🔗 [View Repository](#) ← replace with actual link
+
 
 ---
 
@@ -73,7 +73,7 @@ End-to-end **Medallion architecture pipeline** (Bronze → Silver → Gold) proc
 
 - Built a **multiple linear regression model** to forecast bike-sharing demand based on weather, seasonality, and temporal factors
 
-🔗 [View Repository](https://github.com/Ragadeepsai/Predicting-Employee-Retention--A-Case-Study)
+
 
 ---
 
@@ -82,7 +82,7 @@ End-to-end **Medallion architecture pipeline** (Bronze → Silver → Gold) proc
 
 - Built a logistic regression model to predict employee retention likelihood based on demographic data, job satisfaction scores, and performance metrics
 
-🔗 [View Repository](https://github.com/Ragadeepsai/Predicting-Employee-Retention--A-Case-Study)
+
 
 ---
 
