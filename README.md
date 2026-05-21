@@ -28,7 +28,7 @@ I build end-to-end data pipelines and business intelligence solutions using mode
 
 End-to-end **Medallion architecture pipeline** (Bronze → Silver → Gold) processing **20 years of NASA POWER API solar irradiance data** across 6 major Indian cities.
 
-- Engineered a Python data quality gatekeeper to validate raw CSV ingestion before database load; resolved OS-level AppLocker constraints using pure Python without external dependencies
+- Engineered a Python data quality gatekeeper to validate raw CSV ingestion before database load
 - Gold layer uses **CTEs, CROSS JOINs, and RANK() OVER (PARTITION BY)** window functions to pre-aggregate 25-year financial ROI logic
 - Built an interactive **Power BI dashboard** with dynamic DAX measures integrating PM Surya Ghar subsidy policy (up to ₹78,000 cap), 0.5% panel degradation, and a user-driven EV scenario toggle
 
