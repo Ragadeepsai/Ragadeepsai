@@ -32,7 +32,7 @@ End-to-end **Medallion architecture pipeline** (Bronze → Silver → Gold) proc
 - Gold layer uses **CTEs, CROSS JOINs, and RANK() OVER (PARTITION BY)** window functions to pre-aggregate 25-year financial ROI logic
 - Built an interactive **Power BI dashboard** with dynamic DAX measures integrating PM Surya Ghar subsidy policy (up to ₹78,000 cap), 0.5% panel degradation, and a user-driven EV scenario toggle
 
-> 💡 **Key insight:** Electricity tariff rate - not solar irradiance - is the dominant ROI driver.
+> 💡 **Key insight:** Electricity tariff rate, not solar irradiance - is the dominant ROI driver.
 > Mumbai Premium delivers **735% ROI** vs Bengaluru's **267%** despite lower sunlight.
 
 
